@@ -4,3 +4,6 @@ Browse and search a full TMDB-backed catalog, follow live matches with  league f
 anything where you left off, and download titles to watch offline in a full native player. Apple Silicon, macOS  13+.
 
 <img width="1570" height="871" alt="Screenshot 2026-08-30 at 10 22 00 PM" src="https://github.com/user-attachments/assets/33527ff6-6315-4078-9c33-77d0c88075a4" />
+
+NextFlix does not host, store, or stream any media. Every movie, show, and channel is already publicly available online — NextFlix just brings it together in one clean, native interface.
+
